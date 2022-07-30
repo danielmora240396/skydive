@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07bbe0ee.css",
+    "main.js": "/static/js/main.e9d0f306.js",
+    "static/js/787.a57b37bf.chunk.js": "/static/js/787.a57b37bf.chunk.js",
+    "static/media/skydive-bg.jpg": "/static/media/skydive-bg.e649fb9089155fe3a164.jpg",
+    "index.html": "/index.html",
+    "main.07bbe0ee.css.map": "/static/css/main.07bbe0ee.css.map",
+    "main.e9d0f306.js.map": "/static/js/main.e9d0f306.js.map",
+    "787.a57b37bf.chunk.js.map": "/static/js/787.a57b37bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07bbe0ee.css",
+    "static/js/main.e9d0f306.js"
+  ]
+}
