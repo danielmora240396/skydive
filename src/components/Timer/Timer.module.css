@@ -6,7 +6,7 @@
   display: flex;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 475px) {
   .timer {
     flex-direction: column;
   }
@@ -19,14 +19,14 @@
   color: white;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 475px) {
   .timer .card {
     padding: 0px;
     font-size: 40px;
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 475px) {
   .timer .card {
     margin-bottom: 20px;
   }
