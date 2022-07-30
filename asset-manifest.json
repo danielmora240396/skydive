@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.62257521.css",
-    "main.js": "/static/js/main.42610c37.js",
-    "static/js/787.a57b37bf.chunk.js": "/static/js/787.a57b37bf.chunk.js",
-    "static/media/skydive-bg.jpg": "/static/media/skydive-bg.e649fb9089155fe3a164.jpg",
-    "index.html": "/index.html",
-    "main.62257521.css.map": "/static/css/main.62257521.css.map",
-    "main.42610c37.js.map": "/static/js/main.42610c37.js.map",
-    "787.a57b37bf.chunk.js.map": "/static/js/787.a57b37bf.chunk.js.map"
+    "main.css": "/skydive/static/css/main.40e95292.css",
+    "main.js": "/skydive/static/js/main.369c5e45.js",
+    "static/js/787.a57b37bf.chunk.js": "/skydive/static/js/787.a57b37bf.chunk.js",
+    "static/media/skydive-bg.jpg": "/skydive/static/media/skydive-bg.e649fb9089155fe3a164.jpg",
+    "index.html": "/skydive/index.html",
+    "main.40e95292.css.map": "/skydive/static/css/main.40e95292.css.map",
+    "main.369c5e45.js.map": "/skydive/static/js/main.369c5e45.js.map",
+    "787.a57b37bf.chunk.js.map": "/skydive/static/js/787.a57b37bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62257521.css",
-    "static/js/main.42610c37.js"
+    "static/css/main.40e95292.css",
+    "static/js/main.369c5e45.js"
   ]
 }
