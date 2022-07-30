@@ -1,5 +1,6 @@
 {
   "name": "skydive",
+  "homepage": "https://danielmora240396.github.io/skydive",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
