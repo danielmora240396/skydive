@@ -29,7 +29,6 @@ function App() {
   return (
     <div className="App">
       <Timer timer={timer}></Timer>
-      <p>{targetDate.days}</p>
     </div>
   );
 }
