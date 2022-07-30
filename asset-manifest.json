@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skydive/static/css/main.40e95292.css",
+    "main.css": "/skydive/static/css/main.0ba376c0.css",
     "main.js": "/skydive/static/js/main.369c5e45.js",
     "static/js/787.a57b37bf.chunk.js": "/skydive/static/js/787.a57b37bf.chunk.js",
     "static/media/skydive-bg.jpg": "/skydive/static/media/skydive-bg.e649fb9089155fe3a164.jpg",
     "index.html": "/skydive/index.html",
-    "main.40e95292.css.map": "/skydive/static/css/main.40e95292.css.map",
+    "main.0ba376c0.css.map": "/skydive/static/css/main.0ba376c0.css.map",
     "main.369c5e45.js.map": "/skydive/static/js/main.369c5e45.js.map",
     "787.a57b37bf.chunk.js.map": "/skydive/static/js/787.a57b37bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40e95292.css",
+    "static/css/main.0ba376c0.css",
     "static/js/main.369c5e45.js"
   ]
 }
